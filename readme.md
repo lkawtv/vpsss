@@ -1,4 +1,4 @@
-AUTO INSTALLER DEBIAN 9-10
+AUTO INSTALLER SSH/VPN VPS DEBIAN 9-10 64bit
 
 Script : <br>
 wget https://raw.githubusercontent.com/lkawtv/vpsss/master/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
